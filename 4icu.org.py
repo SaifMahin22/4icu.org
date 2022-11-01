@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # https://www.4icu.org/us/
-
-# ## Logo URL, University Name, Founded, Overview, Country Rank, World Rank, Address, Telephone, Yearly tution Range for Local Students, Student Enrollment, Academic Stuff, Academic Calender
-
 # ### Fetched University URL + University Name
 
 # In[18]:
